@@ -1,0 +1,12 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "affected": {
+    "defaultBase": "maln"
+  },
+  "namedInputs": {
+    "default": ["{projectRoot}/**/*", "sharedGlobals"],
+    "production": ["default"],
+    "sharedGlobals": []
+  },
+  "nxCloudAccessToken": "ZDhlNjZhZGItYzYxNC00ZDNiLTk0NzUtY2QzYmQ3NTk3ZDI3fHJlYWQtd3JpdGU="
+}
